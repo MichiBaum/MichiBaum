@@ -2,6 +2,9 @@
 
 [![MichiBaum's github stats](https://github-readme-stats.vercel.app/api?username=MichiBaum&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MichiBaum/github-readme-stats)
 
+## Connect with me:
+
+[<img align="left" alt="stefanninkovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-baumberger-a06306198/)
 
 ## My projects
 
@@ -17,8 +20,3 @@
 ## My top languages
 
 <img align="left" alt="MichiBaum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiBaum&hide_border=true" />
-
-
-## Connect with me:
-
-[<img align="left" alt="stefanninkovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-baumberger-a06306198/)
