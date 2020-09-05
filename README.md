@@ -2,9 +2,6 @@
 
 [![MichiBaum's github stats](https://github-readme-stats.vercel.app/api?username=MichiBaum&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MichiBaum/github-readme-stats)
 
-<br>
----
-
 
 ## My projects
 
@@ -16,17 +13,11 @@
 
 [![Docker-Reverse-Proxy Project](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=docker-reverse-proxy&show_owner=true)](https://github.com/Michibaum/docker-reverse-proxy)
 
-<br>
----
-
 
 ## My top languages
 
 <img align="left" alt="MichiBaum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiBaum&hide_border=true" />
 
-
-<br>
----
 
 ## Connect with me:
 
