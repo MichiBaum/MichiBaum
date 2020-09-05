@@ -22,6 +22,8 @@
 
 ---
 
+</br>
+
 ## Connect with me:
 
 [<img align="left" alt="stefanninkovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-baumberger-a06306198/)
