@@ -8,14 +8,9 @@
 
 ## My projects
 
-### Lifemanagement
+### Microservices
 
-[![Lifemanagement Project](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=lifemanagement&show_owner=true)](https://github.com/Michibaum/lifemanagement)
-
-### Docker Reverse Proxy
-
-[![Docker-Reverse-Proxy Project](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=docker-reverse-proxy&show_owner=true)](https://github.com/Michibaum/docker-reverse-proxy)
-
+[![Microservices Project](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=Microservices&show_owner=true)](https://github.com/MichiBaum/Microservices)
 
 ## My top languages
 
