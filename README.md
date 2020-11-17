@@ -4,7 +4,11 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Baumberger Michael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-baumberger-a06306198/)<br>
+[<img align="left" alt="Baumberger Michael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />](https://www.linkedin.com/in/michael-baumberger-a06306198/)<br>  
+[<img align="left" alt="Baumberger Michael | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />](https://twitter.com/baum_michi)<br>  
+[<img align="left" alt="Baumberger Michael | Instagram Private" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />](https://www.instagram.com/jaloleyboi/)<br>  
+[<img align="left" alt="Baumberger Michael | Instagram Public" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />](https://www.instagram.com/michi_009/)<br>  
+[HackTheBox](https://www.hackthebox.eu/profile/446524)<br>  
 
 ## My projects
 
