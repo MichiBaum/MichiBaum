@@ -32,6 +32,8 @@
 
 ### School
 
+[![M152](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=m152&show_owner=true)](https://github.com/MichiBaum/m152)  
+
 ## My top languages
 
 <img align="left" alt="MichiBaum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiBaum&hide_border=true" /><br>  
