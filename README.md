@@ -14,9 +14,19 @@
 
 ## My projects
 
-### Microservices
+### General
+
+#### Microservices
 
 [![Microservices Project](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=Microservices&show_owner=true)](https://github.com/MichiBaum/Microservices)  
+
+### Home
+
+#### Home-DNS
+
+[![Home-DNS](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=Home-DNS&show_owner=true)](https://github.com/MichiBaum/Home-DNS)  
+
+### School
 
 ## My top languages
 
