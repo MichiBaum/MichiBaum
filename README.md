@@ -16,6 +16,10 @@
 
 ### General
 
+#### Ctf Writeups
+
+[![Writeups Project](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=writeups&show_owner=true)](https://github.com/MichiBaum/writeups)
+
 #### Microservices
 
 [![Microservices Project](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=Microservices&show_owner=true)](https://github.com/MichiBaum/Microservices)
