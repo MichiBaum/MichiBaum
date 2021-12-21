@@ -24,20 +24,6 @@
 
 [![Switcheroo Project](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=Switcheroo&show_owner=true)](https://github.com/MichiBaum/Switcheroo)  
 
-### Home
-
-#### Home-DNS
-
-[![Home-DNS](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=Home-DNS&show_owner=true)](https://github.com/MichiBaum/Home-DNS)
-
-#### Home-VPN
-
-[![Home-VPN](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=Home-VPN&show_owner=true)](https://github.com/MichiBaum/Home-VPN)
-
-#### Home-Portainer
-
-[![Home-Portainer](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=Home-Portainer&show_owner=true)](https://github.com/MichiBaum/Home-Portainer)
-
 ### School
 
 #### M152
