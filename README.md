@@ -39,6 +39,15 @@
 
 ----
 
+## Tip Bitcoin
+
+<img alt="Developer Tip" src="./developer-tip.png" />  
+
+
+bitcoin:BC1QLNSXGT2YNLGMMGUTAH8JTWFE7SE9VKFN58099L?amount=0.00013000&label=Developer%20Tip  
+
+----
+
 ## My top languages
 
-<img align="left" alt="MichiBaum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiBaum&hide_border=true" /><br>  
+<img alt="MichiBaum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiBaum&hide_border=true" /><br>  
