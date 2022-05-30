@@ -1,18 +1,18 @@
 # MichiBaum
 
-[![MichiBaum's github stats](https://github-readme-stats.vercel.app/api?username=MichiBaum&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/MichiBaum/github-readme-stats)  
+[![MichiBaum's github stats](https://github-readme-stats.vercel.app/api?username=MichiBaum&count_private=true&show_icons=true&theme=great-gatsby&include_all_commits=true)](https://github.com/MichiBaum)  
 
 ----
 
 ## Connect with me:  
             
-[Linkedin](https://www.linkedin.com/in/michael-baumberger-a06306198/)<br>  
-[Twitter](https://twitter.com/baum_michi)<br>  
-[Instagram Private](https://www.instagram.com/jaloleyboi/)<br>  
-[Docker Hub](https://hub.docker.com/u/70131370)<br>  
-<img src="https://tryhackme-badges.s3.amazonaws.com/MichiBaum.png" alt="TryHackMe">  
-[TryHackMe](https://tryhackme.com/p/MichiBaum) | [My Writeups](https://github.com/MichiBaum/writeups)<br>  
-[HackTheBox](https://www.hackthebox.eu/profile/446524) | [My Writeups](https://github.com/MichiBaum/writeups)<br>  
+[Linkedin](https://www.linkedin.com/in/michael-baumberger-a06306198/)<br />  
+[Twitter](https://twitter.com/baum_michi)<br />  
+[Instagram Private](https://www.instagram.com/jaloleyboi/)<br />  
+[Docker Hub](https://hub.docker.com/u/70131370)<br />  
+[TryHackMe](https://tryhackme.com/p/MichiBaum) | [My Writeups](https://github.com/MichiBaum/writeups)<br />  
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/MichiBaum.png)](https://tryhackme.com/p/MichiBaum)<br />  
+[HackTheBox](https://www.hackthebox.eu/profile/446524) | [My Writeups](https://github.com/MichiBaum/writeups)<br />  
 
 ----
 
@@ -20,7 +20,7 @@
 
 ### General
 
-#### Ctf Writeups
+#### Writeups
 
 [![Writeups Project](https://github-readme-stats.vercel.app/api/pin/?username=MichiBaum&repo=writeups&show_owner=true)](https://github.com/MichiBaum/writeups)
 
@@ -40,15 +40,7 @@
 
 ----
 
-## Tip Bitcoin
-
-<img alt="Developer Tip" src="./developer-tip.png" />  
-
-
-bitcoin:BC1QLNSXGT2YNLGMMGUTAH8JTWFE7SE9VKFN58099L?amount=0.00013000&label=Developer%20Tip  
-
-----
 
 ## My top languages
 
-<img alt="MichiBaum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiBaum&hide_border=true" /><br>  
+<img alt="MichiBaum's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichiBaum&hide_border=true" /><br />  
