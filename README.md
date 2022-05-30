@@ -8,7 +8,6 @@
             
 [Linkedin](https://www.linkedin.com/in/michael-baumberger-a06306198/)<br />  
 [Twitter](https://twitter.com/baum_michi)<br />  
-[Instagram Private](https://www.instagram.com/jaloleyboi/)<br />  
 [Docker Hub](https://hub.docker.com/u/70131370)<br />  
 [TryHackMe](https://tryhackme.com/p/MichiBaum) | [My Writeups](https://github.com/MichiBaum/writeups)<br />  
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/MichiBaum.png)](https://tryhackme.com/p/MichiBaum)<br />  
