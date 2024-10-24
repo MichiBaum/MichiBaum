@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on my Microservices Project<br>🌱 I’m currently learning more about Kotlin, Security and Project Management ;)<br>💬 You can ask me everything about Java and Spring<br>
+I am a software developer born in Switzerland 🇨🇭. I completed my apprenticeship at Würth ITensis from 2017 to 2021, and after that, I worked there until 2024 👨‍💻. In my free time, I often find myself programming or reading about it, as it’s something I genuinely enjoy 📚💻. I have a strong love for Java and the Spring Framework ☕🌱, which I used extensively at Würth ITensis. While I still use Spring in my personal projects, I prefer Kotlin when working on my backend 💻🧑‍💻.
+
+On the frontend side, I’ve gained experience with technologies like HTML, CSS, JSP, JavaScript, Knockout.js, and Angular 🎨💻. Beyond just coding, I’m also fascinated by software architecture 🏛️, IT security 🔒, and team management 👥. In short, I’m passionate about everything related to IT and always eager to learn more and expand my skill set 🚀.
 
 
 ## 🌐 Socials:
